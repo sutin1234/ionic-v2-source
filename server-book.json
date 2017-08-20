@@ -1,0 +1,34 @@
+
+    {
+        "result": "OK",
+        "data" : [
+            {
+                "id": "Book_001",
+                "name": "Book_Java",
+                "price": "300",
+                "num": 25,
+                "created": "2017-08-20"
+            },
+            {
+                "id": "Book_002",
+                "name": "Book_PHP",
+                "price": "350",
+                "num": 10,
+                "created": "2017-08-21"
+            },
+            {
+                "id": "Book_003",
+                "name": "Book_Angular",
+                "price": "500",
+                "num": 8,
+                "created": "2017-08-22"
+            },
+            {
+                "id": "Book_004",
+                "name": "Book_NodeJS",
+                "price": "380",
+                "num": 23,
+                "created": "2017-08-23"
+            }
+        ]
+    }
